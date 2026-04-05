@@ -95,7 +95,6 @@ const vin = {
 
 </tr>
 </table>
----
 
 ### 🤝 Connect
 
