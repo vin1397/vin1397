@@ -62,32 +62,39 @@ const vin = {
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
-**♻️ ProjectWM**
-> Waste management app
+**♻️ ProjectWM**  
+> Android waste management app  
 >
-> ![Java](https://img.shields.io/badge/-Java-0d0d14?style=flat&logo=java&logoColor=a78bfa) ![Kotlin](https://img.shields.io/badge/-Kotlin-0d0d14?style=flat&logo=kotlin&logoColor=a78bfa) ![Android](https://img.shields.io/badge/-Android-0d0d14?style=flat&logo=android&logoColor=a78bfa)
+> ![Java](https://img.shields.io/badge/-Java-0d0d14?style=flat&logo=java&logoColor=a78bfa)
+> ![Kotlin](https://img.shields.io/badge/-Kotlin-0d0d14?style=flat&logo=kotlin&logoColor=a78bfa)
+> ![Android](https://img.shields.io/badge/-Android-0d0d14?style=flat&logo=android&logoColor=a78bfa)
 
 </td>
+
 <td width="33%" valign="top">
-**🦋 GEM**
-> Interactive web experience
+
+**🦋 GEM**  
+> Interactive web experience  
 >
-> ![Three.js](https://img.shields.io/badge/-Three.js-0d0d14?style=flat&logo=threedotjs&logoColor=a78bfa) ![JS](https://img.shields.io/badge/-JS-0d0d14?style=flat&logo=javascript&logoColor=a78bfa)
+> ![Three.js](https://img.shields.io/badge/-Three.js-0d0d14?style=flat&logo=threedotjs&logoColor=a78bfa)
+> ![JavaScript](https://img.shields.io/badge/-JavaScript-0d0d14?style=flat&logo=javascript&logoColor=a78bfa)
 
 </td>
+
 <td width="33%" valign="top">
 
-**🎬 Project Player**
-> C++ video playback system
+**🎬 Project Player**  
+> C++ video playback system  
 >
 > ![C++](https://img.shields.io/badge/-C++-0d0d14?style=flat&logo=cplusplus&logoColor=a78bfa)
 
 </td>
+
 </tr>
 </table>
-
 ---
 
 ### 🤝 Connect
