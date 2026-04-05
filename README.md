@@ -5,6 +5,7 @@
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=header" width="100%"/>
+</div>
 
 ---
 
