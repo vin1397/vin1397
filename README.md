@@ -65,12 +65,11 @@ const vin = {
 <td width="33%" valign="top">
 
 **♻️ ProjectWM**
-> Waste management app
+> Waste management app (Android)
 >
-> ![JS](https://img.shields.io/badge/-JS-0d0d14?style=flat&logo=javascript&logoColor=a78bfa) ![React](https://img.shields.io/badge/-React-0d0d14?style=flat&logo=react&logoColor=a78bfa)
-
-</td>
-<td width="33%" valign="top">
+> ![Java](https://img.shields.io/badge/-Java-0d0d14?style=flat&logo=java&logoColor=a78bfa)
+> ![Kotlin](https://img.shields.io/badge/-Kotlin-0d0d14?style=flat&logo=kotlin&logoColor=a78bfa)
+> ![Android](https://img.shields.io/badge/-Android-0d0d14?style=flat&logo=android&logoColor=a78bfa)
 
 **🦋 GEM**
 > Interactive web experience
