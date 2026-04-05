@@ -1,56 +1,61 @@
-<h1 align="center">Hi 👋, I'm Vin</h1>
+<h1 align="center">💜 Vin</h1>
 
-<table>
-<tr>
-<td width="35%">
+<p align="center">
+  <i>Building clean, interactive & meaningful digital experiences</i>
+</p>
 
-<img src="https://avatars.githubusercontent.com/u/148042326" width="180" style="border-radius:50%"/>
+---
 
-### 💻 Developer
+### 🧠 About Me
 
-- 🚀 Building interactive web & apps  
-- 🎯 Focus: clean UI + real projects  
+- 🚀 Focused on building real projects  
+- 🎯 Clean UI + smooth experience  
 - ⚡ Consistency > motivation  
 
-</td>
+---
 
-<td width="65%">
+### 💜 Skills
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=bb86fc"/>
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=bb86fc"/>
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=bb86fc"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=bb86fc"/>
+<img src="https://img.shields.io/badge/Three.js-0d1117?style=for-the-badge&logo=three.js&logoColor=bb86fc"/>
+<img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=bb86fc"/>
+<img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=bb86fc"/>
+</p>
+
+---
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=vin1397&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vin1397&theme=tokyonight"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vin1397&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vin1397&theme=midnight-purple&hide_border=true"/>
+</p>
 
 ---
 
 ### 📈 Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vin1397&theme=tokyo-night"/>
-
----
-
-### 🧠 Skills
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,python,react,firebase,threejs,html,css"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vin1397&theme=midnight-purple&hide_border=true"/>
 
 ---
 
 ### ⚡ Projects
 
-- 🚀 ProjectWM → Waste management app  
-- 🦋 GEM → Interactive web project  
-- 🎬 Project Player → C++ video system  
+- 🚀 ProjectWM — Waste management app  
+- 🦋 GEM — Interactive web experience  
+- 🎬 Project Player — C++ video system  
 
 ---
 
 ### 🤝 Connect
 
-- 💬 Open for collab  
-- 📩 DM me  
+<p>
+<a href="https://github.com/vin1397">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=bb86fc"/>
+</a>
+</p>
