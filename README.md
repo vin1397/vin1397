@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Vin&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Building%20clean%2C%20interactive%20%26%20meaningful%20digital%20experiences&descAlignY=58&descSize=16&descColor=c4b5fd" width="100%"/>
 
-<br/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Consistency+%3E+Motivation+%E2%9A%A1;Clean+UI+%2B+Smooth+UX+%F0%9F%8E%AF;Building+Real+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
@@ -46,19 +44,19 @@ const vin = {
 ### 📊 Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vin1397&show_icons=true&hide_border=true&bg_color=0d0d14&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&ring_color=7c3aed"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vin1397&layout=compact&hide_border=true&bg_color=0d0d14&title_color=a78bfa&text_color=c4b5fd"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vin1397&show_icons=true&hide_border=true&bg_color=0d0d14&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&ring_color=7c3aed&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vin1397&layout=compact&hide_border=true&bg_color=0d0d14&title_color=a78bfa&text_color=c4b5fd&cache_seconds=1800" width="38%" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=vin1397&theme=midnight-purple&hide_border=true&background=0d0d14&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=a78bfa&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff"/>
+  <img src="https://streak-stats.demolab.com?user=vin1397&hide_border=true&background=0d0d14&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=a78bfa&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" width="60%" />
 </p>
 
 ---
 
 ### 📈 Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vin1397&bg_color=0d0d14&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=7c3aed&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vin1397&bg_color=0d0d14&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true" width="100%"/>
 
 ---
 
