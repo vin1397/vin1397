@@ -3,7 +3,9 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Consistency+%3E+Motivation+%E2%9A%A1;Clean+UI+%2B+Smooth+UX+%F0%9F%8E%AF;Building+Real+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer&reversal=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer"
+     width="100%"
+     style="transform: rotate(180deg);" />
 
 </div>
 
