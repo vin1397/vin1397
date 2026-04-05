@@ -1,8 +1,5 @@
 <div align="center">
 
-
-<img src="https://capsule-render-git-main-kyechan99.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Vin&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Building%20clean%2C%20interactive%20%26%20meaningful%20digital%20experiences&descAlignY=58&descSize=16&descColor=c4b5fd" width="100%"/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Consistency+%3E+Motivation+%E2%9A%A1;Clean+UI+%2B+Smooth+UX+%F0%9F%8E%AF;Building+Real+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
@@ -96,8 +93,17 @@ const vin = {
 ### 🤝 Connect
 
 <p>
-<a href="https://github.com/vin1397">
-  <img src="https://img.shields.io/badge/GitHub-0d0d14?style=for-the-badge&logo=github&logoColor=a78bfa"/>
+
+<a href="mailto:your-vinyas1397@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0d0d14?style=for-the-badge&logo=gmail&logoColor=a78bfa"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vin1397">
+  <img src="https://img.shields.io/badge/LinkedIn-0d0d14?style=for-the-badge&logo=linkedin&logoColor=a78bfa"/>
+</a>
+
+<a href="https://www.twitch.tv/vin1397">
+  <img src="https://img.shields.io/badge/Twitch-0d0d14?style=for-the-badge&logo=twitch&logoColor=a78bfa"/>
 </a>
 </p>
 
