@@ -111,5 +111,6 @@ const vin = {
   <img src="https://img.shields.io/badge/Twitch-0d0d14?style=for-the-badge&logo=twitch&logoColor=a78bfa"/>
 </a>
 </p>
+<br>
 ---
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer" width="100%"/>
