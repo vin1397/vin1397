@@ -31,7 +31,7 @@
 ### 📊 Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vin1397&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vin1397&show_icons=true&theme=radical&hide_border=true&title_color=bb86fc&text_color=c9a0ff&icon_color=bb86fc"/>
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vin1397&theme=midnight-purple&hide_border=true"/>
 </p>
