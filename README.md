@@ -93,15 +93,15 @@ const vin = {
 ### 🤝 Connect
 
 <p>
-<a href="mailto:your-vinyas1397@gmail.com" style="text-decoration:none;">
+<a href="mailto:your-vinyas1397@gmail.com" style="text-decoration:none;border:0;">
   <img src="https://img.shields.io/badge/Email-0d0d14?style=for-the-badge&logo=gmail&logoColor=a78bfa"/>
 </a>
 
-<a href="https://www.linkedin.com/in/vin1397" style="text-decoration:none;">
+<a href="https://www.linkedin.com/in/vin1397" style="text-decoration:none;border:0;">
   <img src="https://img.shields.io/badge/LinkedIn-0d0d14?style=for-the-badge&logo=linkedin&logoColor=a78bfa"/>
 </a>
 
-<a href="https://www.twitch.tv/vin1397" style="text-decoration:none;">
+<a href="https://www.twitch.tv/vin1397" style="text-decoration:none;border:0;">
   <img src="https://img.shields.io/badge/Twitch-0d0d14?style=for-the-badge&logo=twitch&logoColor=a78bfa"/>
 </a>
 </p>
