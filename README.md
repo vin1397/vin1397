@@ -42,9 +42,9 @@ const vin = {
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vin1397&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vin1397&show_icons=true&hide_border=true&bg_color=0d0d14&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd" width="48%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vin1397&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vin1397&layout=compact&hide_border=true&bg_color=0d0d14&title_color=a78bfa&text_color=c4b5fd" width="38%" />
 </p>
 
 <p align="center">
