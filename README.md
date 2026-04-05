@@ -4,7 +4,9 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Consistency+%3E+Motivation+%E2%9A%A1;Clean+UI+%2B+Smooth+UX+%F0%9F%8E%AF;Building+Real+Projects+%F0%9F%9A%80)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Consistency+%3E+Motivation+%E2%9A%A1;Clean+UI+%2B+Smooth+UX+%F0%9F%8E%AF;Building+Real+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -32,11 +34,11 @@ const vin = {
 <p>
 <img src="https://img.shields.io/badge/JavaScript-0d0d14?style=for-the-badge&logo=javascript&logoColor=a78bfa"/>
 <img src="https://img.shields.io/badge/React-0d0d14?style=for-the-badge&logo=react&logoColor=a78bfa"/>
-<img src="https://img.shields.io/badge/Node.js-0d0d14?style=for-the-badge&logo=node.js&logoColor=a78bfa"/>
+<img src="https://img.shields.io/badge/Node.js-0d0d14?style=for-the-badge&logo=nodedotjs&logoColor=a78bfa"/>
 <img src="https://img.shields.io/badge/Python-0d0d14?style=for-the-badge&logo=python&logoColor=a78bfa"/>
-<img src="https://img.shields.io/badge/Three.js-0d0d14?style=for-the-badge&logo=three.js&logoColor=a78bfa"/>
+<img src="https://img.shields.io/badge/Three.js-0d0d14?style=for-the-badge&logo=threedotjs&logoColor=a78bfa"/>
 <img src="https://img.shields.io/badge/Firebase-0d0d14?style=for-the-badge&logo=firebase&logoColor=a78bfa"/>
-<img src="https://img.shields.io/badge/C++-0d0d14?style=for-the-badge&logo=c%2B%2B&logoColor=a78bfa"/>
+<img src="https://img.shields.io/badge/C++-0d0d14?style=for-the-badge&logo=cplusplus&logoColor=a78bfa"/>
 </p>
 
 ---
@@ -44,13 +46,12 @@ const vin = {
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vin1397&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d14&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&ring_color=7c3aed" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vin1397&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d14&title_color=a78bfa&text_color=c4b5fd" height="160"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vin1397&show_icons=true&hide_border=true&bg_color=0d0d14&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&ring_color=7c3aed"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vin1397&layout=compact&hide_border=true&bg_color=0d0d14&title_color=a78bfa&text_color=c4b5fd"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vin1397&theme=midnight-purple&hide_border=true&background=0d0d14&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=a78bfa&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=vin1397&theme=midnight-purple&hide_border=true&background=0d0d14&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=a78bfa&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff"/>
 </p>
 
 ---
@@ -78,7 +79,7 @@ const vin = {
 **🦋 GEM**
 > Interactive web experience
 >
-> ![Three.js](https://img.shields.io/badge/-Three.js-0d0d14?style=flat&logo=three.js&logoColor=a78bfa) ![JS](https://img.shields.io/badge/-JS-0d0d14?style=flat&logo=javascript&logoColor=a78bfa)
+> ![Three.js](https://img.shields.io/badge/-Three.js-0d0d14?style=flat&logo=threedotjs&logoColor=a78bfa) ![JS](https://img.shields.io/badge/-JS-0d0d14?style=flat&logo=javascript&logoColor=a78bfa)
 
 </td>
 <td width="33%" valign="top">
@@ -86,7 +87,7 @@ const vin = {
 **🎬 Project Player**
 > C++ video playback system
 >
-> ![C++](https://img.shields.io/badge/-C++-0d0d14?style=flat&logo=c%2B%2B&logoColor=a78bfa)
+> ![C++](https://img.shields.io/badge/-C++-0d0d14?style=flat&logo=cplusplus&logoColor=a78bfa)
 
 </td>
 </tr>
