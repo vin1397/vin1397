@@ -4,7 +4,7 @@
 <tr>
 <td width="35%">
 
-<img src="https://avatars.githubusercontent.com/u/YOUR_ID" width="180" style="border-radius:50%"/>
+<img src="https://avatars.githubusercontent.com/u/148042326" width="180" style="border-radius:50%"/>
 
 ### 💻 Developer
 
