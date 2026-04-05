@@ -98,22 +98,25 @@ const vin = {
 
 ### 🤝 Connect
 
-<p align="center">
+<p>
 
+<span>
 <a href="mailto:your-vinyas1397@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0d0d14?style=for-the-badge&logo=gmail&logoColor=a78bfa"
-       style="vertical-align:middle;" />
+  <img src="https://img.shields.io/badge/Email-0d0d14?style=for-the-badge&logo=gmail&logoColor=a78bfa"/>
 </a>
+</span>
 
+<span>
 <a href="https://www.linkedin.com/in/vin1397">
-  <img src="https://img.shields.io/badge/LinkedIn-0d0d14?style=for-the-badge&logo=linkedin&logoColor=a78bfa"
-       style="vertical-align:middle;" />
+  <img src="https://img.shields.io/badge/LinkedIn-0d0d14?style=for-the-badge&logo=linkedin&logoColor=a78bfa"/>
 </a>
+</span>
 
+<span>
 <a href="https://www.twitch.tv/vin1397">
-  <img src="https://img.shields.io/badge/Twitch-0d0d14?style=for-the-badge&logo=twitch&logoColor=a78bfa"
-       style="vertical-align:middle;" />
+  <img src="https://img.shields.io/badge/Twitch-0d0d14?style=for-the-badge&logo=twitch&logoColor=a78bfa"/>
 </a>
+</span>
 
 </p>
 
