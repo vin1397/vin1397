@@ -99,17 +99,25 @@ const vin = {
 ### 🤝 Connect
 
 <p>
-<a href="mailto:your-vinyas1397@gmail.com" style="text-decoration:none;border:0;">
+<span>
+<a href="mailto:your-vinyas1397@gmail.com">
   <img src="https://img.shields.io/badge/Email-0d0d14?style=for-the-badge&logo=gmail&logoColor=a78bfa"/>
 </a>
+</span>
 
-<a href="https://www.linkedin.com/in/vin1397" style="text-decoration:none;border:0;">
+<span>
+<a href="https://www.linkedin.com/in/vin1397">
   <img src="https://img.shields.io/badge/LinkedIn-0d0d14?style=for-the-badge&logo=linkedin&logoColor=a78bfa"/>
 </a>
+</span>
 
-<a href="https://www.twitch.tv/vin1397" style="text-decoration:none;border:0;">
+<span>
+<a href="https://www.twitch.tv/vin1397">
   <img src="https://img.shields.io/badge/Twitch-0d0d14?style=for-the-badge&logo=twitch&logoColor=a78bfa"/>
 </a>
+</span>
 </p>
+
+
 <hr>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer" width="100%"/>
