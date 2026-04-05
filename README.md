@@ -86,7 +86,7 @@ const vin = {
 
 <td width="33%" valign="top">
 
-**🎬 Project Player**  
+**🎬 ArchPlayer(under construction)**  
 > C++ video playback system  
 >
 > ![C++](https://img.shields.io/badge/-C++-0d0d14?style=flat&logo=cplusplus&logoColor=a78bfa)
