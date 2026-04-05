@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vin</h1>
 
-<!--
-**vin1397/vin1397** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr>
+<td width="35%">
 
-Here are some ideas to get you started:
+<img src="https://avatars.githubusercontent.com/u/YOUR_ID" width="180" style="border-radius:50%"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Developer
+
+- 🚀 Building interactive web & apps  
+- 🎯 Focus: clean UI + real projects  
+- ⚡ Consistency > motivation  
+
+</td>
+
+<td width="65%">
+
+### 📊 Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📈 Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+---
+
+### 🧠 Skills
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,python,react,firebase,threejs,html,css"/>
+</p>
+
+---
+
+### ⚡ Projects
+
+- 🚀 ProjectWM → Waste management app  
+- 🦋 GEM → Interactive web project  
+- 🎬 Project Player → C++ video system  
+
+---
+
+### 🤝 Connect
+
+- 💬 Open for collab  
+- 📩 DM me  
